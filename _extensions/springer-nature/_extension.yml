@@ -4,21 +4,15 @@ version: 0.0.1
 contributes:
   formats:
     common:
-      # define below YAML configuration common to all formats
       filters:
-        # You can include here Lua filters from your extension format 
-        - color-text.lua
       shortcodes:
-        # You can include here Lua filters defining shortcodes from your extension
-        - shortcodes.lua
       knitr:
         opts_chunk:
           echo: false
     pdf:
-      # define default configuration for the pdf version of your format
       documentclass: sn-jnl
       colorlinks: true
-      urlcolor: red
+      urlcolor: blue
       fig-width: 6.5
       fig-height: 4.5
       # This format use a bst file with natbib
