@@ -2,7 +2,7 @@
 
 <!-- ALL THE BELOW SHOULD BE IN YOUR README -->
 
-This is a Quarto template that assists you in creating a manuscript for Article Format Template journals. You can learn more about producing LaTeX output for Springer_Nature journals in [[https://www.springernature.com/gp/authors/campaigns/latex-author-support]]
+This is a Quarto template that assists you in creating a manuscript for Article Format Template journals. You can learn more about producing LaTeX output for Springer_Nature journals in https://www.springernature.com/gp/authors/campaigns/latex-author-support
 
 ## Creating a New Article
 
