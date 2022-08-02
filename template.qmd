@@ -1,9 +1,9 @@
 ---
 title: "Demo aft format to use as template"
 format:
-  aft-pdf:
+  springer-nature-pdf:
     keep-tex: true  
-  aft-html: default
+  springer-nature-html: default
 author:
   - name: John Doe
     affiliations:
